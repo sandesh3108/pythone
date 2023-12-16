@@ -1,0 +1,11 @@
+#Simpal calculator by define value
+a=int(input("Enter the first number:"))
+b=int(input("Enter the second number:"))
+print("value of a is ",a,"\nvalue of b is ",b)
+print("\nAdditin of a&b is :",a+b)
+print("Subtrction of a&b is :",a-b)
+print("Multyfiction of a&b is :",a*b)
+print("Division of a&b is :",a/b)
+print("modul(%) of a&b is :",a%b)
+print("Exponential(**) of a&b is :",a**b)
+print("Floor Division(//) of a&b is:",a//b)
